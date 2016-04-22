@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">游戏2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">分数：</string>
+    <string name="bestscore">最高分：</string>
+    <string name="newgame">重新开始</string>
+    <string name="appinfo">Author: Yuxiang  Mail: 88310094@qq.com</string>
+</resources>
