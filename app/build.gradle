@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.aricz.pure2048"
-        minSdkVersion 19
-        targetSdkVersion 23
+        minSdkVersion 8
+        targetSdkVersion 14
         versionCode 1
         versionName "1.0"
     }
